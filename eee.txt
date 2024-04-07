@@ -6,10 +6,5 @@ function A(){
     asdfasdfasdfasdf
 }
 function B()){
-    
-    ad
-    fas
-    dfa
-    dfasdfasdf
-    
+  hello world
 }
