@@ -2,10 +2,5 @@ function A(){
      how are you 
 }
 function B()){
-    
-    ad
-    fas
-    dfa
-    dfasdfasdf
-    
+  hello world
 }
