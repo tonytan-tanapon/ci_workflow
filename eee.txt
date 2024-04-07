@@ -1,1 +1,4 @@
 function A(){}
+function B()){
+    sddasd
+}
