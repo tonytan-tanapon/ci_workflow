@@ -1,4 +1,10 @@
-function A(){}
+function A(){
+    asdfasdfasdfasdffad
+
+    sdfa
+    sdfaasdf
+    asdfasdfasdfasdf
+}
 function B()){
     sddasd
 }
