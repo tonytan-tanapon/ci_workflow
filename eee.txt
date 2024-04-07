@@ -1,5 +1,1 @@
-dfasdfa
-asdfasbf
-
-asdfasbfds
-dfasdfaasdf
+function A(){}
